@@ -1,3 +1,4 @@
+// 請 jQuery 抓 button 元件，並且設定當 click 事件發生後，要執行的程式碼
 $('button').on('click', function() {
     // 取得體重的input
     var w = $('#weight').val()
